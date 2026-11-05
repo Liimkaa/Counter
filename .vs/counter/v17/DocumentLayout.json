@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pauli\\OneDrive\\Pulpit\\Szko\u0142a\\multiplatformowki\\counter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98AD9946-50AB-4F9F-96F4-6FE9451D3127}|counter\\counter.csproj|c:\\users\\pauli\\onedrive\\pulpit\\szko\u0142a\\multiplatformowki\\counter\\counter\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{98AD9946-50AB-4F9F-96F4-6FE9451D3127}|counter\\counter.csproj|solutionrelative:counter\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AD9946-50AB-4F9F-96F4-6FE9451D3127}|counter\\counter.csproj|c:\\users\\pauli\\onedrive\\pulpit\\szko\u0142a\\multiplatformowki\\counter\\counter\\counteritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AD9946-50AB-4F9F-96F4-6FE9451D3127}|counter\\counter.csproj|solutionrelative:counter\\counteritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AD9946-50AB-4F9F-96F4-6FE9451D3127}|counter\\counter.csproj|c:\\users\\pauli\\onedrive\\pulpit\\szko\u0142a\\multiplatformowki\\counter\\counter\\globalxmlns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AD9946-50AB-4F9F-96F4-6FE9451D3127}|counter\\counter.csproj|solutionrelative:counter\\globalxmlns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AD9946-50AB-4F9F-96F4-6FE9451D3127}|counter\\counter.csproj|c:\\users\\pauli\\onedrive\\pulpit\\szko\u0142a\\multiplatformowki\\counter\\counter\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{98AD9946-50AB-4F9F-96F4-6FE9451D3127}|counter\\counter.csproj|solutionrelative:counter\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AD9946-50AB-4F9F-96F4-6FE9451D3127}|counter\\counter.csproj|c:\\users\\pauli\\onedrive\\pulpit\\szko\u0142a\\multiplatformowki\\counter\\counter\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AD9946-50AB-4F9F-96F4-6FE9451D3127}|counter\\counter.csproj|solutionrelative:counter\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AD9946-50AB-4F9F-96F4-6FE9451D3127}|counter\\counter.csproj|c:\\users\\pauli\\onedrive\\pulpit\\szko\u0142a\\multiplatformowki\\counter\\counter\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{98AD9946-50AB-4F9F-96F4-6FE9451D3127}|counter\\counter.csproj|solutionrelative:counter\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AD9946-50AB-4F9F-96F4-6FE9451D3127}|counter\\counter.csproj|c:\\users\\pauli\\onedrive\\pulpit\\szko\u0142a\\multiplatformowki\\counter\\counter\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{98AD9946-50AB-4F9F-96F4-6FE9451D3127}|counter\\counter.csproj|solutionrelative:counter\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AD9946-50AB-4F9F-96F4-6FE9451D3127}|counter\\counter.csproj|c:\\users\\pauli\\onedrive\\pulpit\\szko\u0142a\\multiplatformowki\\counter\\counter\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{98AD9946-50AB-4F9F-96F4-6FE9451D3127}|counter\\counter.csproj|solutionrelative:counter\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AD9946-50AB-4F9F-96F4-6FE9451D3127}|counter\\counter.csproj|c:\\users\\pauli\\onedrive\\pulpit\\szko\u0142a\\multiplatformowki\\counter\\counter\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AD9946-50AB-4F9F-96F4-6FE9451D3127}|counter\\counter.csproj|solutionrelative:counter\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 28,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CounterItem.cs",
+              "DocumentMoniker": "C:\\Users\\pauli\\OneDrive\\Pulpit\\Szko\u0142a\\multiplatformowki\\counter\\counter\\CounterItem.cs",
+              "RelativeDocumentMoniker": "counter\\CounterItem.cs",
+              "ToolTip": "C:\\Users\\pauli\\OneDrive\\Pulpit\\Szko\u0142a\\multiplatformowki\\counter\\counter\\CounterItem.cs",
+              "RelativeToolTip": "counter\\CounterItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T14:56:34.763Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:85371364:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\pauli\\OneDrive\\Pulpit\\Szko\u0142a\\multiplatformowki\\counter\\counter\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "counter\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\pauli\\OneDrive\\Pulpit\\Szko\u0142a\\multiplatformowki\\counter\\counter\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "counter\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-05T10:10:00.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\pauli\\OneDrive\\Pulpit\\Szko\u0142a\\multiplatformowki\\counter\\counter\\App.xaml",
+              "RelativeDocumentMoniker": "counter\\App.xaml",
+              "ToolTip": "C:\\Users\\pauli\\OneDrive\\Pulpit\\Szko\u0142a\\multiplatformowki\\counter\\counter\\App.xaml",
+              "RelativeToolTip": "counter\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-05T10:09:56.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\pauli\\OneDrive\\Pulpit\\Szko\u0142a\\multiplatformowki\\counter\\counter\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "counter\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Users\\pauli\\OneDrive\\Pulpit\\Szko\u0142a\\multiplatformowki\\counter\\counter\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "counter\\Resources\\Styles\\Colors.xaml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-05T10:07:59.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalXmlns.cs",
+              "DocumentMoniker": "C:\\Users\\pauli\\OneDrive\\Pulpit\\Szko\u0142a\\multiplatformowki\\counter\\counter\\GlobalXmlns.cs",
+              "RelativeDocumentMoniker": "counter\\GlobalXmlns.cs",
+              "ToolTip": "C:\\Users\\pauli\\OneDrive\\Pulpit\\Szko\u0142a\\multiplatformowki\\counter\\counter\\GlobalXmlns.cs",
+              "RelativeToolTip": "counter\\GlobalXmlns.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T10:03:41.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\pauli\\OneDrive\\Pulpit\\Szko\u0142a\\multiplatformowki\\counter\\counter\\AppShell.xaml",
+              "RelativeDocumentMoniker": "counter\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\pauli\\OneDrive\\Pulpit\\Szko\u0142a\\multiplatformowki\\counter\\counter\\AppShell.xaml",
+              "RelativeToolTip": "counter\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-05T10:03:32.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\pauli\\OneDrive\\Pulpit\\Szko\u0142a\\multiplatformowki\\counter\\counter\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "counter\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\pauli\\OneDrive\\Pulpit\\Szko\u0142a\\multiplatformowki\\counter\\counter\\MauiProgram.cs",
+              "RelativeToolTip": "counter\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T10:03:24.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pauli\\OneDrive\\Pulpit\\Szko\u0142a\\multiplatformowki\\counter\\counter\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "counter\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pauli\\OneDrive\\Pulpit\\Szko\u0142a\\multiplatformowki\\counter\\counter\\MainPage.xaml.cs",
+              "RelativeToolTip": "counter\\MainPage.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T14:26:28.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pauli\\OneDrive\\Pulpit\\Szko\u0142a\\multiplatformowki\\counter\\counter\\MainPage.xaml",
+              "RelativeDocumentMoniker": "counter\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\pauli\\OneDrive\\Pulpit\\Szko\u0142a\\multiplatformowki\\counter\\counter\\MainPage.xaml",
+              "RelativeToolTip": "counter\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-16T14:21:24.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
